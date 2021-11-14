@@ -7,8 +7,8 @@ $menuHeight: 65px+10px;
 
 html,
 body {
-    width: 60vw;
-    height: 60vh;
+    width: 100vw;
+    height: 100vh;
     position: fixed;
     padding: 0;
     margin: 0;
